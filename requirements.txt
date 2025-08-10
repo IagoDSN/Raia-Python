@@ -1,0 +1,17 @@
+opencv-python==4.10.0.84
+simpleaudio==1.0.4
+PyAudio==0.2.14
+silero-vad==5.1.2
+google-cloud-speech==2.30.0
+google-cloud-texttospeech==2.23.0
+imutils==0.5.4
+picamera2==0.3.25
+face-recognition==1.3.0
+pandas==2.2.3
+face-detection-tflite==0.6.0
+tflite-runtime==2.14.0
+tflite-support==0.1.0a1
+scipy==1.15.1
+openai==1.60.2
+evdev==1.9.1
+numpy==1.26.4
